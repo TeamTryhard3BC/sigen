@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-personalizadotres {
+    background-color: #222020;
+}
+
+.bg-inst1 {
+    background-color: #072466;
+}
+
+.bg-inst2 {
+    background-color: #174FA4;
+}
+
+.bg-inst3 {
+    background-color: #283c57;
+}
+
+.bg-tres, .bg-dos, .bg-uno {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    padding: 5px;
+}
+
+.bg-uno {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-dark {
+    background-color: #181818 !important;
+}
+
+.form-control:focus {
+    border-color: #0e0e0e !important;
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25) !important;
+}

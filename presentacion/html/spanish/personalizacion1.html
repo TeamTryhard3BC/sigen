@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="spanish">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Tryhard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="../../css/estilos.css" rel="stylesheet">
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid justify-content-center">
+            <a class="navbar-brand" href="institucional.html">
+                <img src="../../media/logochico.png" alt="Logo" width="40" height="34" class="rounded float-end">
+            </a>
+        </div>
+    </nav>
+
+    <div class="container-fluid p-0 flex-grow-1 d-flex flex-column">
+        <section id="containerConTexto" class="align-items-center justify-content-center bg-personalizadotres text-white text-center flex-grow-1">
+            <h1>Personalización del sistema</h1>
+            <section id="containerConBotones" class="d-flex align-items-center justify-content-center bg-personalizadotres text-white text-center py-5 flex-grow-1">
+                <div class="container-fluid">
+                    <form method="get" action="../../../negocio/logica/personalizacion1.php">
+                        <input type="hidden" id="idioma" name="idioma" value="spanish">
+
+                        <div class="row justify-content-center mb-3">
+                            <div class="col-lg-2 col-md-4">
+                                <div class="form-floating text-dark">
+                                    <input type="file" class="form-control" id="elegirLogo" name="logo" placeholder=""
+                                    data-bs-toggle="tooltipLogo" data-bs-placement="right" data-bs-original-title="¡Seleccione un logo válido!">
+                                    <label for="elegirLogo">Logo</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row justify-content-center mb-3">
+                            <div class="col-lg-2 col-md-4">
+                                <div class="form-floating text-dark">
+                                    <input type="text" class="form-control" id="elegirNombre" name="nombre" placeholder=""
+                                    data-bs-toggle="tooltipNombre" data-bs-placement="right" data-bs-original-title="¡Ingrese un nombre válido!">
+                                    <label for="elegirNombre">Nombre de la institución</label>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div class="row justify-content-center mb-3">
+                            <div class="col-lg-3 col-md-6">
+                                <div class="form-floating text-dark">
+                                    <select class="form-select select-auto-size" multiple id="elegirParametros" name="parametros[]" placeholder=""
+                                        data-bs-toggle="tooltipParametros" data-bs-placement="right" data-bs-original-title="¡Seleccione al menos un parámetro!">
+                                        <option value="1">Parámetro1</option>
+                                        <option value="2">Parámetro2</option>
+                                        <option value="3">Parámetro3</option>
+                                        <option value="4">Parámetro4</option>
+                                        <option value="5">Parámetro5</option>
+                                        <option value="6">Parámetro6</option>
+                                    </select>
+                                    <label for="elegirParametros">Parámetros<em> (Puedes elegir multiples)</em></label>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row justify-content-center align-items-center">
+                            <button type="submit" id="btnEnviar" class="col-lg-1 mb-2 mt-2 btn btn-outline-secondary" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);">Enviar</button>
+                        </div>
+
+                        <p id="result" style="color: rgb(223, 80, 80);" hidden>ERROR: ¡No se pudo cargar el API!</p>
+                    </form>
+                </div>
+            </section>
+        </section>
+        <section id="containerConSigen" class="align-items-center justify-content-center bg-personalizadotres text-white text-center">
+            <h4>S.I.G.EN</h4>
+            <h4>Team Tryhard</h4>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous">
+    </script>
+
+    <script src="../../js/jquery-3.7.1.min.js"></script>
+    <script src="../../js/personalizacion/personalizacion1.js"></script>
+</body>
+</html>
