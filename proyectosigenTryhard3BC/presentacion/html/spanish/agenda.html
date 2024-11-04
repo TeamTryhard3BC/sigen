@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="spanish">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Tryhard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="../../css/estilos.css" rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+
+<body class="d-flex flex-column min-vh-100 bg-personalizadotres">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03"
+                aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+                <img src="../../../datos/logo.png" alt="LOGO INSTITUCION" width="50" height="50" class="d-inline-block align-text-top">
+            </a>
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item" id="buscar">
+                        <a class="nav-link material-symbols-outlined" href="buscador.html">search</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="true" href="index.html">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="true" href="planes.html">Planes</a>
+                    </li>
+                    <li class="nav-item" id="registrarse" hidden>
+                        <a class="nav-link" aria-current="true" href="registro.html">Registrarse</a>
+                    </li>
+                    <li class="nav-item" id="logearse" hidden>
+                        <a class="nav-link" aria-current="true" href="login.html">Iniciar Sesión</a>
+                    </li>
+                    <li class="nav-item dropdown" id="perfilUsuario" hidden>
+                        <a id="nombrePersona" class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="min-width: 150px;">
+                            NOMBRE USUARIO
+                        </a>
+                        <ul class="dropdown-menu" style="min-width: 150px;">
+                            <li><a class="dropdown-item" href="perfil.html">Perfil</a></li>
+                            <li><a class="dropdown-item active" href="agenda.html">Agenda</a></li>
+                            <li><a id="btnGestorUsuarios" class="dropdown-item" href="gestionUsuarios.html" hidden>Gestor usuarios</a></li>
+                            <li class="nav-item" id="cerrarSesion" hidden>
+                                <a class="nav-link active error" class="dropdown-item" aria-current="true" href="#">&nbsp;&nbsp;Cerrar Sesión</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <section id="integrantes"
+            class="d-flex align-items-center justify-content-center bg-personalizadotres text-white text-center py-2 flex-grow-1">
+
+        <div class="container mt-0">
+            <h1>AGENDA DE ENTRENAMIENTO SEMANAL</h1>
+
+            <div class="p-3">
+            </div>
+            <form id="agendaForm">
+                <div class="table-responsive">
+                    <table class="table table-dark table-striped">
+                        <thead>
+                            <tr>
+                                <th>Día</th>
+                                <th>Seleccionar</th>
+                                <th>Cupos Disponibles</th> 
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Lunes</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="lunes" name="lunes" value="Lunes">
+                                        <label class="form-check-label" for="lunes">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-lunes">Cargando...</td> 
+                            </tr>
+                            <tr>
+                                <td>Martes</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="martes" name="martes" value="Martes">
+                                        <label class="form-check-label" for="martes">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-martes">Cargando...</td>
+                            </tr>
+                            <tr>
+                                <td>Miércoles</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="miercoles" name="miercoles" value="Miércoles">
+                                        <label class="form-check-label" for="miercoles">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-miercoles">Cargando...</td>
+                            </tr>
+                            <tr>
+                                <td>Jueves</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="jueves" name="jueves" value="Jueves">
+                                        <label class="form-check-label" for="jueves">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-jueves">Cargando...</td>
+                            </tr>
+                            <tr>
+                                <td>Viernes</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="viernes" name="viernes" value="Viernes">
+                                        <label class="form-check-label" for="viernes">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-viernes">Cargando...</td>
+                            </tr>
+                            <tr>
+                                <td>Sábado</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="sabado" name="sabado" value="Sábado">
+                                        <label class="form-check-label" for="sabado">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-sabado">Cargando...</td>
+                            </tr>
+                            <tr>
+                                <td>Domingo</td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="domingo" name="domingo" value="Domingo">
+                                        <label class="form-check-label" for="domingo">Entrenar</label>
+                                    </div>
+                                </td>
+                                <td id="cupos-domingo">Cargando...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="btn-container" style="display: flex; justify-content: center;">
+                    <button type="submit" id="btnGuardar" class="btn btn-primary" style="margin-right: 10px;" hidden>Guardar</button>
+                    <button type="reset" class="btn btn-secondary">Limpiar</button>
+                </div>
+            </form>
+
+            
+        </div>
+    </section>
+
+    <footer class="py-3 bg-personalizadotres text-white">
+        <ul id="containerConSigen" class="nav justify-content-center border-bottom pb-3 mb-3">
+            <!-- ^^^^^ aca se spamean las opciones de contacto en el perfil.js ^^^^^ -->
+        </ul>
+        <p id="copyright" class="text-center bg-personalizadotres text-white"></p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
+
+    <script type="module" src="../../js/BASE_PATH.js"></script>
+    <script src="../../js/jquery-3.7.1.min.js"></script>
+    <script type="module" src="../../js/agenda/agenda.js"></script>
+    <script type="module" src="../../js/perfil/perfil.js"></script>
+    <script type="module" src="../../js/seguridad/logoutSwitch.js"></script>
+    <script type="module" src="../../js/registro/cerrarSesion.js"></script>
+</body>
+</html>

@@ -1,0 +1,254 @@
+[13-Oct-2024 15:34:54 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:54 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:54 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:54 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:34:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:35:02 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:35:02 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:35:02 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:35:02 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:35:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:36:26 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:36:26 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:36:26 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:36:26 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:36:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:13 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:13 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:13 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:13 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:44 Europe/Berlin] PHP Warning:  Undefined variable $server in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:44 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:44 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:44 Europe/Berlin] PHP Warning:  Undefined variable $bd in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:38:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:58
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(58): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#2 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 58
+[13-Oct-2024 15:40:33 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 59
+[13-Oct-2024 15:40:33 Europe/Berlin] PHP Warning:  Attempt to read property "connect_error" on null in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 59
+[13-Oct-2024 15:40:33 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 65
+[13-Oct-2024 15:40:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:65
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#1 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 65
+[13-Oct-2024 15:40:37 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 59
+[13-Oct-2024 15:40:37 Europe/Berlin] PHP Warning:  Attempt to read property "connect_error" on null in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 59
+[13-Oct-2024 15:40:37 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 65
+[13-Oct-2024 15:40:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php:65
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#1 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 65
+[13-Oct-2024 15:42:28 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 54
+[13-Oct-2024 15:42:28 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 54
+[13-Oct-2024 15:42:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(54): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#3 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:43:22 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 53
+[13-Oct-2024 15:43:22 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 53
+[13-Oct-2024 15:43:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(53): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#3 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:52:42 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 55
+[13-Oct-2024 15:52:42 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 56
+[13-Oct-2024 15:52:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(62): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:52:42 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 55
+[13-Oct-2024 15:52:42 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 56
+[13-Oct-2024 15:52:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(62): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:53:58 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:53:58 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:53:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:54:00 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:00 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:54:03 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:03 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:54:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:56:16 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:16 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:56:38 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:38 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:56:39 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:39 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:56:39 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:39 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:56:53 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:53 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 61
+[13-Oct-2024 15:56:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(61): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:57:23 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 55
+[13-Oct-2024 15:57:23 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 56
+[13-Oct-2024 15:57:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(62): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
+[13-Oct-2024 15:57:24 Europe/Berlin] PHP Warning:  Undefined variable $rootUser in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 55
+[13-Oct-2024 15:57:24 Europe/Berlin] PHP Warning:  Undefined variable $rootPass in C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php on line 56
+[13-Oct-2024 15:57:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php:15
+Stack trace:
+#0 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(15): mysqli->__construct('localhost', NULL, Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php(51): conectar(NULL, NULL)
+#2 C:\xampp\htdocs\proyectosigen\negocio\logica\personalizacion1.php(62): consulta(NULL, NULL, 'INSERT INTO per...')
+#3 C:\xampp\htdocs\proyectosigen\negocio\modules\requests.php(28): {closure}()
+#4 {main}
+  thrown in C:\xampp\htdocs\proyectosigen\datos\conexion\PuenteMySQL.php on line 15
